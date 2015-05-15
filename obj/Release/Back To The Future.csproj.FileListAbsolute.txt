@@ -1,0 +1,6 @@
+c:\documents\visual studio 2012\Projects\Back To The Future\bin\Release\Back To The Future.dll
+c:\documents\visual studio 2012\Projects\Back To The Future\bin\Release\Back To The Future.pdb
+c:\documents\visual studio 2012\Projects\Back To The Future\bin\Release\ScriptHookVDotNet.dll
+c:\documents\visual studio 2012\Projects\Back To The Future\obj\Release\Back To The Future.csprojResolveAssemblyReference.cache
+c:\documents\visual studio 2012\Projects\Back To The Future\obj\Release\Back To The Future.dll
+c:\documents\visual studio 2012\Projects\Back To The Future\obj\Release\Back To The Future.pdb
